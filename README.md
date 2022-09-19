@@ -7,7 +7,7 @@
    - [Database Schema](https://github.com/breencf/spotify-clone/wiki/User-Stories)
    - [User Stories](https://github.com/breencf/spotify-clone/wiki/User-Stories)
    - [Contributors](https://github.com/breencf/spotify-clone/wiki/About)
-   - [Live Site](https://Spot-ify.herokuapp.com)
+   - [Live Site](https://spot-ifyy.herokuapp.com/)
 
 ## Technologies Used
 
